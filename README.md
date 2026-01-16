@@ -52,7 +52,7 @@ Primary school: SJKT Ramakrishna
 <br>
 <br>
 
-**🤖 Skills**
+**🤖 SKILLS**
 <br>
 <br>✨Computing skills ( Canva, Microsoft, C++, Video editing)
 <br>✨Communication ( English, Malay, Tamil )
@@ -62,7 +62,7 @@ Primary school: SJKT Ramakrishna
 <br>
 <br>
 
-**😉Fun facts**
+**😉 FUN FACTS**
 <br>
 <br>🧬 Background interest in biology and genetics
 <br>🎮 I love designing games, escape rooms, and interactive experiences alongside coding
