@@ -3,6 +3,7 @@ I am still exploring my career pathway, as my journey in this course has only ju
   <br>
     <br>
 
+
 **🎓EDUCATION**
   <br>
 <br>✨2025-2029<br>
@@ -15,6 +16,7 @@ Secondary school: SMK Convent Green Lane
 Primary school: SJKT Ramakrishna
   <br>
   <br>
+
 
 **🎖️ACHEIVEMENT**
 
@@ -36,6 +38,8 @@ Primary school: SJKT Ramakrishna
 <br>UPSR: 8A
 <br>
 <br>
+
+
 **🦁LEADERSHIP**
 <br>
 <br>✨Primary school :
